@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/OrxCxXF.jpeg" alt="image" width="300" height="auto">
+<img src="https://i.imgur.com/ZcFptz4.jpeg" alt="image" width="300" height="auto">
 
 ## What is "BedrockFusion"
 I don't know too :] (soon)
