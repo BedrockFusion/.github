@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/ZcFptz4.jpeg" alt="image" width="300" height="auto">
 
 ## What is "BedrockFusion"
-<p> An open source community for Minecraft: Bedrock Edition. Although it is mostly based on [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) you can find different things.</p>
+<p> An open source community for Minecraft: Bedrock Edition. Although it is mostly based on **PocketMine-MP** you can find different things.</p>
 
 ## Some of Our Projects
 - [BloodPixelMC](https://github.com/blood-pixel)
